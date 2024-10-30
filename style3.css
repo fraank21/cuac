@@ -46,7 +46,7 @@ p {
 .imagen-girando {
     width: 200px;
     height: 200px;
-    animation: girar 10s linear infinite; /* Rota lentamente */
+    animation: girar 15s linear infinite; /* Rota lentamente */
 }
 
 @keyframes girar {
